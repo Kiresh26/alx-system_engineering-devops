@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -D -a -p -m -U
+
