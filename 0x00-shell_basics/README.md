@@ -1,9 +1,9 @@
-# ALX - 0x01. Shell, permissions
+# ALX - 0x00. Shell, basics
 All about bash projects
 ## Author
 Kireshchand Dhanasar
 
-##Tasks
+## Tasks
 0. Where am I?
 Write a script that prints the absolute path name of the current working directory.
 
